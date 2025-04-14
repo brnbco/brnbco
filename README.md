@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to `brnbco`
 
-<!--
-**brnbco/brnbco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Repos](https://img.shields.io/badge/AI%20Repos-100%25%20Cloud-blueviolet)](https://github.com/brnbco)
 
-Here are some ideas to get you started:
+> 🤖 Building smart AI agents, automations & chat systems in the cloud — tailored for digital marketing workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What to Expect
+- AI 🧠 Agents for workflow automation  
+- Chat-based tools 💬 for customer engagement  
+- Cloud-native ☁️ deployments for scalability
+
+---
+
+📌 !
+
+🔗 [github.com/brnbco](https://github.com/brnbco)
